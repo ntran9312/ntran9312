@@ -13,3 +13,4 @@ My name is Nathan Tran, I attend Nora Frances Secondary School in the graduating
 - Python
 - HTML
 - JavaScript
+- C#
