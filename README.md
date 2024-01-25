@@ -9,7 +9,7 @@ My name is Nathan Tran, I attend Nora Frances Secondary School in the graduating
 3. Calculator
 4. Fortune Cookie
 
-### Languages
+### Coding Languages
 - Python
 - HTML
 - JavaScript
